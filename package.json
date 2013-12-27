@@ -1,0 +1,21 @@
+{
+  "name": "lessless-bootstrap",
+  "version": "1.1.0",
+  "description": "For those who love bootstrap and hate LESS in the same time!",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohsentaleb/lessless-bootstrap.git"
+  },
+  "author": "Mohsen Taleb <mohsentaleb@gmail.com>",
+  "license": "MIT License (MIT)",
+  "readmeFilename": "README.md",
+  "gitHead": "e7a1ab6f3d0ac9230a8dee7f47472661b35fec38",
+  "bugs": {
+    "url": "https://github.com/mohsentaleb/lessless-bootstrap/issues"
+  },
+  "devDependencies": {
+    "grunt": "0.4.2",
+    "grunt-contrib-concat": "0.3.0"
+  }
+}
