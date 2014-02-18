@@ -31,3 +31,7 @@ Finally, you just need to run the following command to get all the production fi
 Then you can link to your concatenated CSS file in your HTML page like:
 
 	<link href="/dist/website.css" rel="stylesheet" media="screen" />
+
+License
+=======
+"LESS"less Bootstrap is available under [WTFPL](http://sam.zoy.org/wtfpl/), though obviously, if you want to dual-license any contributions that's cool.
